@@ -23,4 +23,3 @@ if sum >= 1 && sum <= 100
   end
 else
 end
-
